@@ -15,16 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="method.cpp">
+    <ClCompile Include="c_bad_legacy.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="method_2.cpp">
+    <ClCompile Include="c_normal_legacy.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="opencv_external.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="method2_无注释.cpp">
+    <ClCompile Include="c_normal_nocomment_legacy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="opencv_1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
