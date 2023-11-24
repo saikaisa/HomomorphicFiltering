@@ -38,7 +38,7 @@
 
       <center><b>高斯同态滤波器公式：</b></center>
 
-      <center><font size="4">H(u,v) = (γH − γL) [1 − e<sup>-C[D<sup>2</sup>(u,v)/2D<sub>0</sub><sup>2</sup>]</sup>] + γL</font></center>
+      <center><font size="4">H(u,v) = (γH − γL) [1 − e<sup>-C[D<sup>2</sup>(u,v)/D<sub>0</sub><sup>2</sup>]</sup>] + γL</font></center>
 
       <img src="http://pics.saikaisa.top/20230913120257.png"/>
 
