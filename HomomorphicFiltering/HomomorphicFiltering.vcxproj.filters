@@ -27,10 +27,7 @@
     <ClCompile Include="opencv_original.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="opencv_others2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="opencv_original_new.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
