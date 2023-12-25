@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="opencv_others.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="temp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -30,10 +27,5 @@
     <ClCompile Include="opencv_original_new.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="opencv_others2.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
